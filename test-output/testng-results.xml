@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-08-28T15:58:42 EET" name="Default suite" finished-at="2026-08-28T15:58:56 EET" duration-ms="13737">
+    <groups>
+    </groups>
+    <test started-at="2026-08-28T15:58:42 EET" name="Default test" finished-at="2026-08-28T15:58:56 EET" duration-ms="13737">
+      <class name="SumayaCourse1.aaa">
+        <test-method is-config="true" signature="mysetup()[pri:0, instance:SumayaCourse1.aaa@2ceb80a1]" started-at="2026-08-28T15:58:42 EET" name="mysetup" finished-at="2026-08-28T15:58:43 EET" duration-ms="1002" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mysetup -->
+        <test-method signature="Login()[pri:1, instance:SumayaCourse1.aaa@2ceb80a1]" started-at="2026-08-28T15:58:43 EET" name="Login" finished-at="2026-08-28T15:58:44 EET" duration-ms="193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="AddAllItemsToCart()[pri:2, instance:SumayaCourse1.aaa@2ceb80a1]" started-at="2026-08-28T15:58:44 EET" name="AddAllItemsToCart" finished-at="2026-08-28T15:58:46 EET" duration-ms="2360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddAllItemsToCart -->
+        <test-method signature="RemoveAllItemsFromCart()[pri:3, instance:SumayaCourse1.aaa@2ceb80a1]" started-at="2026-08-28T15:58:46 EET" name="RemoveAllItemsFromCart" finished-at="2026-08-28T15:58:49 EET" duration-ms="2895" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RemoveAllItemsFromCart -->
+        <test-method signature="AddRandomItems()[pri:4, instance:SumayaCourse1.aaa@2ceb80a1]" started-at="2026-08-28T15:58:49 EET" name="AddRandomItems" finished-at="2026-08-28T15:58:51 EET" duration-ms="2243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddRandomItems -->
+        <test-method signature="checkoutButton()[pri:5, instance:SumayaCourse1.aaa@2ceb80a1]" started-at="2026-08-28T15:58:51 EET" name="checkoutButton" finished-at="2026-08-28T15:58:54 EET" duration-ms="2410" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutButton -->
+        <test-method signature="fillCheckoutInformation()[pri:6, instance:SumayaCourse1.aaa@2ceb80a1]" started-at="2026-08-28T15:58:54 EET" name="fillCheckoutInformation" finished-at="2026-08-28T15:58:56 EET" duration-ms="2341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillCheckoutInformation -->
+        <test-method signature="finish()[pri:7, instance:SumayaCourse1.aaa@2ceb80a1]" started-at="2026-08-28T15:58:56 EET" name="finish" finished-at="2026-08-28T15:58:56 EET" duration-ms="131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+      </class> <!-- SumayaCourse1.aaa -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
